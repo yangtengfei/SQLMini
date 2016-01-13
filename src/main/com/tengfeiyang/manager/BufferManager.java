@@ -1,7 +1,11 @@
+package com.tengfeiyang.manager;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+import com.tengfeiyang.entities.BCB;
+import com.tengfeiyang.entities.Page;
 
 public class BufferManager {
 	private static final int pageNum = 500000;

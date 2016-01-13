@@ -1,3 +1,4 @@
+package com.tengfeiyang.entities;
 
 public class Page {
 	private int operator;

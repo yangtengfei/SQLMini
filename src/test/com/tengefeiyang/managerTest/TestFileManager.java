@@ -1,3 +1,7 @@
+package com.tengefeiyang.managerTest;
+
+import com.tengfeiyang.entities.Page;
+import com.tengfeiyang.manager.FileManager;
 
 public class TestFileManager {
 	public static void main(String[] args) {

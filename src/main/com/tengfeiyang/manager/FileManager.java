@@ -1,9 +1,12 @@
+package com.tengfeiyang.manager;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+
+import com.tengfeiyang.entities.Page;
 
 /**
  * 文件管理模块，从trace文件中读取文件
